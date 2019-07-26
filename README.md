@@ -7,4 +7,4 @@ frequently asked questions in work
     - [监测客户端监测任务时间不更新](Broadviwe/probe/监测客户端监测任务时间不更新.md)
 ## [Uyun](Uyun)
 - [automation](Uyun/automation)
-    - [host offline](Uyun/automation/host offline.md)
+    - [hostoffline](Uyun/automation/hostoffline.md)

@@ -5,6 +5,7 @@ frequently asked questions in work
 ## [Broadview](Broadview)
 - [kb](Broadview/kb)
     - [知识库全文索引搜不到](Broadview/kb/知识库全文索引搜不到.md)
+    - [知识库审核页面渲染数据失败](Broadview/kb/知识库审核页面渲染数据失败.md)
 - [probe](Broadview/probe)
     - [监测客户端监测任务时间不更新](Broadview/probe/监测客户端监测任务时间不更新.md)
     - [监测客户端建立资源失败](Broadview/probe/监测客户端建立资源失败.md)

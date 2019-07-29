@@ -8,3 +8,5 @@ frequently asked questions in work
 ## [Uyun](Uyun)
 - [automation](Uyun/automation)
     - [hostoffline](Uyun/automation/hostoffline.md)
+- [platform](Uyun/platform)
+    - [登录提示验证码错误](Uyun/platform/登录提示验证码错误.md)

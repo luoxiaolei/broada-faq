@@ -15,7 +15,7 @@ frequently asked questions in work
 - [automation](Uyun/automation)
     - [hostoffline](Uyun/automation/hostoffline.md)
 - [iotdiscovery](Uyun/iotdiscovery)
-    -[升级一机一档支持选择上报的数据](Uyun/iotdiscovery/升级一机一档支持选择上报的数据.md)
+    - [升级一机一档支持选择上报的数据](Uyun/iotdiscovery/升级一机一档支持选择上报的数据.md)
 - [monitor](Uyun/monitor)
     - [RemoteServer宕机，导致监控主机离线](Uyun/monitor/RemoteServer宕机，导致监控主机离线.md)
 - [platform](Uyun/platform)

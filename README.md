@@ -11,7 +11,7 @@ frequently asked questions in work
     - [监测客户端建立资源失败](Broadview/probe/监测客户端建立资源失败.md)
 ## [Uyun](Uyun)
 - [ant](Uyun/ant)
-    - [DLLloadfailed:不是有效Win32应用程序](Uyun/ant/DLLloadfailed:不是有效Win32应用程序.md)
+    - [~~DLLloadfailed:不是有效Win32应用程序~~](Uyun/ant/DLLloadfailed:不是有效Win32应用程序.md)
 - [automation](Uyun/automation)
     - [hostoffline](Uyun/automation/hostoffline.md)
 - [iotdiscovery](Uyun/iotdiscovery)

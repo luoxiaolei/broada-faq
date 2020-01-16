@@ -1,8 +1,10 @@
-# broada-faq
+# Broada-FAQ
 frequently asked questions in work
 
 # TOC
 ## [Broadview](Broadview)
+- [cascade](Broadview/cascade)
+    - [清空省厅对地市上一年度的考核评分](Broadview/cascade/01.md)
 - [kb](Broadview/kb)
     - [知识库全文索引搜不到](Broadview/kb/知识库全文索引搜不到.md)
     - [知识库审核页面渲染数据失败](Broadview/kb/知识库审核页面渲染数据失败.md)
@@ -20,3 +22,5 @@ frequently asked questions in work
     - [RemoteServer宕机，导致监控主机离线](Uyun/monitor/RemoteServer宕机，导致监控主机离线.md)
 - [platform](Uyun/platform)
     - [登录提示验证码错误](Uyun/platform/登录提示验证码错误.md)
+- [videomon](Uyun/videomon)
+    - [发现摄像机正常，导入cmdb数量不对](Uyun/videomon/01.md)

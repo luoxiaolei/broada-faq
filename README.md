@@ -18,7 +18,7 @@ frequently asked questions in work
 - [automation](Uyun/automation)
     - [hostoffline](Uyun/automation/hostoffline.md)
 - [cmdb](Uyun/cmdb)
-    - [Excel导入配置项失败](01.md)
+    - [Excel导入配置项失败](Uyun/automation/01.md)
 - [iotdiscovery](Uyun/iotdiscovery)
     - [升级一机一档支持选择上报的数据](Uyun/iotdiscovery/升级一机一档支持选择上报的数据.md)
 - [monitor](Uyun/monitor)

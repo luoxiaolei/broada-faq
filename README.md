@@ -18,6 +18,7 @@ frequently asked questions in work
 - [alert](Uyun/alert)
     - [[呼和浩特03]告警自动派单规则执行失败](Uyun/alert/[呼和浩特03]告警自动派单规则执行失败.md)
 - [ant](Uyun/ant)
+    - [[呼和浩特03]Windows手动安装Agent失败，报Error5，Error2](Uyun/ant/[呼和浩特03]Windows手动安装Agent失败，报Error5，Error2.md)
     - [~~DLLloadfailed:不是有效Win32应用程序~~](Uyun/ant/DLLloadfailed:不是有效Win32应用程序.md)
 - [automation](Uyun/automation)
     - [hostoffline](Uyun/automation/hostoffline.md)
